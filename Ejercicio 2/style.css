@@ -1,0 +1,30 @@
+body {
+    font-family: Montserrat;
+    /*background: #f06d06;
+    color: white;*/
+
+  }
+
+  h1{
+    color: #1D80A3;
+
+  
+  }
+  .btn{
+    background: none;
+    padding: 10px 70px;
+    font-size: 25px;
+    font-family: "Montserrat";
+    cursor: pointer;
+    margin: 10px;
+    transition: 0.8s;
+    border: 1px solid #1D80A3;
+    color: #1D80A3;
+    transition: 0.8s;
+  }
+
+  .btn:hover{
+     color: white
+
+  }
+
